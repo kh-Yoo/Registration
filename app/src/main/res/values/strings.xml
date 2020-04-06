@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string  name="id">아이디</string>
+    <string  name="password">비밀번호</string>
+    <string  name="registration">회원가입</string>
+
+    <string name="confirmOverlap">중복 체크</string>
+    <string name="email">이메일</string>
+    <string name="female">여자</string>
+    <string name="male">남자</string>
+    <string name="signUp">가입하기</string>
+
+    <string name="developerName1">유종원</string>
+    <string name="developerName2">최강현</string>
+    <string name="developerName3">유강현</string>
+    <string name="developerName4">주동철</string>
+    <string name="developerEmail1">2e40camn@naver.com</string>
+    <string name="developerEmail2">example@naver.com</string>
+    <string name="developerEmail3">example@naver.com</string>
+    <string name="developerEmail4">example@naver.com</string>
+    <string name="developerMajor1">스마트정보통신공학과 16학번</string>
+    <string name="developerMajor2">스마트정보통신공학과 16학번</string>
+    <string name="developerMajor3">스마트정보통신공학과 16학번</string>
+    <string name="developerMajor4">스마트정보통신공학과 16학번</string>
+    <string name="date">2019년 8월 23일</string>
+
+    <string name="appName">SOLID</string>
+    <string name="appContent">음주측정 스마트키</string>
+    <string name="appInformation">어플리케이션 정보</string>
+    <string name="appVersion">어플리케이션 버전 : 0.1 Ver</string>
+    <string name="developer">개발자 : SOLID(유종원, 최강현, 유강현, 주동철)</string>
+    <string name="homePage">홈페이지 = http://lionkiing33.cafe24.com</string>
+    <string name="developerIntroduce">홈페이지 운영진 소개</string>
+
+    <string name="splashLogo">SOLID</string>
+    <string name="loginLogo">SOLID</string>
+    <string name="mainLogo">SOLID</string>
+
+    <string name="bluetooth">블루투스</string>
+    <string name="connectDevice">연결하기</string>
+    <string name="sendData">전송하기</string>
+</resources>
